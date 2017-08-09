@@ -1,0 +1,16 @@
+.post_gallery_image_wrapper { overflow:hidden; }
+
+.post_gallery_textfield { overflow:hidden; padding:0 0 12px 0; }
+.post_gallery_textfield label { width:100px; float:left; padding:8px 0 0 0; }
+.post_gallery_textfield input { width:175px; float:left; }
+.post_gallery_upload_file a { display:block; width:90px; height:24px; background:url(../images/upload.jpg) no-repeat; overflow:hidden; text-indent:-9999px; cursor:pointer !important; }
+.post_gallery_fields { width:400px; float:left; }
+.post_gallery_image_thumbnail { float:left; width:125px; height:125px; border:1px solid #dfdfdf; }
+
+.post_gallery_controls { clear:left; overflow:hidden; padding:15px 0 6px 0; width:80%; }
+.post_gallery_controls .post_gallery_textfield { width:95px; float:left; }
+.post_gallery_controls .post_gallery_textfield label { display:block; float:left; width:43px; padding:8px 0 0 0; }
+.post_gallery_controls .post_gallery_textfield input { display:block; float:left; width:35px; }
+.post_gallery_controls p { width:395px; float:left; }
+.post_gallery_controls a.post_image_duplicate { display:block; width:auto; float:left; }
+.post_gallery_controls a.post_image_delete { display:block; width:auto; float:right; }
